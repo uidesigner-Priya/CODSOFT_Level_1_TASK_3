@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, inttial-scale=1.0">
+        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.8/css/line.css">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title> Calculator </title>
+        <link rel="stylesheet" href="calci.css">
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="calculator">
+                <div class="toggle">
+                    <i class="t-icon"></i>
+                </div>
+                <div class="display-screen">
+                    <div id="display"></div>
+                </div>
+                <div class="buttons">
+                    <table>
+                        <tr>
+                            <td><button class="btn-op" id="clear">C</button></td>
+                            <td><button class="btn-op" id="backspace"><i class="uil uil-backspace"></i></button></td>
+                            <td><button class="btn-op" id="*">&times;</button></td>
+                            <td><button class="btn-op" id="/">&divide;</button></td>
+                        </tr>
+
+                        <tr>
+                            <td><button class="btn-no" id="7">7</button></td>
+                            <td><button class="btn-no" id="8">8</button></td>
+                            <td><button class="btn-no" id="9">9</button></td>
+                            <td><button class="btn-op" id="-"><i class="uil uil-minus"></i></button></td>
+                        </tr>
+
+                        <tr>
+                            <td><button class="btn-no" id="4">4</button></td>
+                            <td><button class="btn-no" id="5">5</button></td>
+                            <td><button class="btn-no" id="6">6</button></td>
+                            <td><button class="btn-op" id="+">+</button></td>
+                        </tr>
+
+                        <tr>
+                            <td><button class="btn-no" id="1">1</button></td>
+                            <td><button class="btn-no" id="2">2</button></td>
+                            <td><button class="btn-no" id="3">3</button></td>
+                            <td rowspan="2"><button class="btn-eq" id="eq">=</button></td>
+                        </tr>
+
+                        <tr>
+                            <td><button class="btn-op" id="(">(</button></td>
+                            <td><button class="btn-no" id="0">0</button></td>
+                            <td><button class="btn-op" id=")">)</button></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <script src="calci.js"></script>
+    </body>
