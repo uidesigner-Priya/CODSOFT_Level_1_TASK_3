@@ -11,10 +11,10 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
 ## Screenshots
 
 ### Light Mode
-![Light Mode](./images/Light mode.png)
+![Light mode](https://github.com/uidesigner-Priya/CODSOFT/assets/147839283/94e4c9dd-fb4f-417c-b41c-fb7f723c0151)
 
 ### Dark Mode
-![Dark Mode](./images/Dark mode.png)
+![Dark mode](https://github.com/uidesigner-Priya/CODSOFT/assets/147839283/7c055e0b-5e96-4075-ba97-147e590097d9)
 
 ## Getting Started
 
