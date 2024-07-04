@@ -33,17 +33,17 @@ You need a web browser to run the calculator.
 
 2. Open the index.html file in your web browser.
 
-3. -> Once you have opened the calculator use the buttons to perform calculations.
+3. -> Once you have opened the calculator use the buttons to perform calculations.__
    -> Toggle between light and dark modes using the switch or button provided.
 
 ## Folder Structure
 
 calculator-project/
 
-├── calci.html
-├── calci.css
-├── calci.js
-├── images/
-│   ├── Light mode.png
-│   └── Dark mode.png
-└── README.md
+├── calci.html__
+├── calci.css__
+├── calci.js__
+├── images/__
+│   ├── Light mode.png__
+│   └── Dark mode.png__
+└── README.md__
