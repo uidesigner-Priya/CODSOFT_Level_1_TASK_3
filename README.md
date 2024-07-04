@@ -37,13 +37,18 @@ You need a web browser to run the calculator.
    - Toggle between light and dark modes using the switch or button provided.
 
 ## Folder Structure
+```
+├───calci.html 
+│
+├───calci.html 
+│
+├───calci.html 
+│
+└───images
 
-calculator-project/
-.
-├── calci.html    
-├── calci.css   
-├── calci.js  
-├── images/  
-│   ├── Light mode.png
-│   └── Dark mode.png
-└── README.md
+    |──Light mode.png
+    |──Dark mode.png
+
+└───README.md
+```
+
