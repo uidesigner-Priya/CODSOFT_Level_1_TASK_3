@@ -1,6 +1,7 @@
 # Calculator Project
 
 This is a simple calculator project built using HTML, CSS, and JavaScript. The calculator includes basic arithmetic operations and supports both dark and light modes.
+This project is a part of my Level 1 internship task given by CODSOFT.
 
 ## Features
 
@@ -38,6 +39,7 @@ You need a web browser to run the calculator.
 ## Folder Structure
 
 calculator-project/
+
 ├── calci.html
 ├── calci.css
 ├── calci.js
