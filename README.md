@@ -8,9 +8,13 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
 - Light and dark mode toggle.
 - Responsive design for various screen sizes.
 
-## Demo
+## Screenshots
 
-Check out the live demo [here](https://github.com/uidesigner-Priya/CODSOFT.git).
+### Light Mode
+![Light Mode](./images/Lightmode.png)
+
+### Dark Mode
+![Dark Mode](./images/Darkmode.png)
 
 ## Getting Started
 
@@ -34,7 +38,10 @@ You need a web browser to run the calculator.
 ## Folder Structure
 
 calculator-project/
-├── index.html
-├── style.css
-├── script.js
+├── calci.html
+├── calci.css
+├── calci.js
+├── images/
+│   ├── Lightmodet.png
+│   └── Darkmode.png
 └── README.md
