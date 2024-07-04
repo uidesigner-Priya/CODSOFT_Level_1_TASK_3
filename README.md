@@ -11,10 +11,10 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
 ## Screenshots
 
 ### Light Mode
-![Light Mode](./images/Lightmode.png)
+![Light Mode](./images/Light mode.png)
 
 ### Dark Mode
-![Dark Mode](./images/Darkmode.png)
+![Dark Mode](./images/Dark mode.png)
 
 ## Getting Started
 
@@ -42,6 +42,6 @@ calculator-project/
 ├── calci.css
 ├── calci.js
 ├── images/
-│   ├── Lightmodet.png
-│   └── Darkmode.png
+│   ├── Light mode.png
+│   └── Dark mode.png
 └── README.md
