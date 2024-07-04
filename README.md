@@ -10,7 +10,7 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. The c
 
 ## Demo
 
-Check out the live demo [here](https://your-demo-link.com).
+Check out the live demo [here](https://github.com/uidesigner-Priya/CODSOFT.git).
 
 ## Getting Started
 
