@@ -38,17 +38,12 @@ You need a web browser to run the calculator.
 
 ## Folder Structure
 ```
-├───calci.html 
-│
-├───calci.html 
-│
-├───calci.html 
-│
-└───images
-
-    |──Light mode.png
-    |──Dark mode.png
-
-└───README.md
+├── calci.html
+├── calci.css
+├── calci.js
+├── images
+│   ├── Light mode.png
+│   └── Dark mode.png
+└── README.md
 ```
 
