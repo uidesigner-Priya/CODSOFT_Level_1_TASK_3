@@ -31,7 +31,7 @@ You need a web browser to run the calculator.
    ```sh
    git clone https://github.com/uidesigner-Priya/CODSOFT.git
 
-2. Open the index.html file in your web browser.
+2. Open the calci.html file in your web browser.
 
 3. - Once you have opened the calculator use the buttons to perform calculations.  
    - Toggle between light and dark modes using the switch or button provided.
