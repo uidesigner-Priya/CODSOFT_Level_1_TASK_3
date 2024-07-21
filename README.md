@@ -29,7 +29,7 @@ You need a web browser to run the calculator.
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/uidesigner-Priya/CODSOFT.git
+   git clone https://github.com/uidesigner-Priya/CODSOFT_Level_1_TASK_3.git
 
 2. Open the calci.html file in your web browser.
 
